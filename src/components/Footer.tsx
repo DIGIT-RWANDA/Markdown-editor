@@ -22,7 +22,14 @@ const Footer: React.FC = () => {
                 background: #000;
             `
                 }>
-                <span>{`</>`}</span><span> with <a href="https://reactjs.org" target="_blank" rel="noopener noreferrer">React.js</a> &amp; <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">TypeScript</a></span>
+                <span>{`</>`}</span>
+                <span>
+                    with
+                    <a href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
+                        React.js
+                    </a> &amp;
+                    <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">TypeScript</a>
+                </span>
             </div>
         </footer>
     )
