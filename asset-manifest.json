@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/markdown-editor/static/css/main.bf0648b4.chunk.css",
-    "main.js": "/markdown-editor/static/js/main.bbb99c5c.chunk.js",
-    "main.js.map": "/markdown-editor/static/js/main.bbb99c5c.chunk.js.map",
-    "runtime-main.js": "/markdown-editor/static/js/runtime-main.7e32ca7b.js",
-    "runtime-main.js.map": "/markdown-editor/static/js/runtime-main.7e32ca7b.js.map",
-    "static/js/2.ff48a9a3.chunk.js": "/markdown-editor/static/js/2.ff48a9a3.chunk.js",
-    "static/js/2.ff48a9a3.chunk.js.map": "/markdown-editor/static/js/2.ff48a9a3.chunk.js.map",
-    "index.html": "/markdown-editor/index.html",
-    "precache-manifest.a05c372ab1319ab6381dff5a9c463bbc.js": "/markdown-editor/precache-manifest.a05c372ab1319ab6381dff5a9c463bbc.js",
-    "service-worker.js": "/markdown-editor/service-worker.js",
-    "static/css/main.bf0648b4.chunk.css.map": "/markdown-editor/static/css/main.bf0648b4.chunk.css.map",
-    "static/js/2.ff48a9a3.chunk.js.LICENSE.txt": "/markdown-editor/static/js/2.ff48a9a3.chunk.js.LICENSE.txt"
+    "main.css": "/DIGIT-RWANDA/markdown-editor/static/css/main.bf0648b4.chunk.css",
+    "main.js": "/DIGIT-RWANDA/markdown-editor/static/js/main.878fad89.chunk.js",
+    "main.js.map": "/DIGIT-RWANDA/markdown-editor/static/js/main.878fad89.chunk.js.map",
+    "runtime-main.js": "/DIGIT-RWANDA/markdown-editor/static/js/runtime-main.bf48368c.js",
+    "runtime-main.js.map": "/DIGIT-RWANDA/markdown-editor/static/js/runtime-main.bf48368c.js.map",
+    "static/js/2.ff48a9a3.chunk.js": "/DIGIT-RWANDA/markdown-editor/static/js/2.ff48a9a3.chunk.js",
+    "static/js/2.ff48a9a3.chunk.js.map": "/DIGIT-RWANDA/markdown-editor/static/js/2.ff48a9a3.chunk.js.map",
+    "index.html": "/DIGIT-RWANDA/markdown-editor/index.html",
+    "precache-manifest.3d767db19d2dc99c12731e151ece5c90.js": "/DIGIT-RWANDA/markdown-editor/precache-manifest.3d767db19d2dc99c12731e151ece5c90.js",
+    "service-worker.js": "/DIGIT-RWANDA/markdown-editor/service-worker.js",
+    "static/css/main.bf0648b4.chunk.css.map": "/DIGIT-RWANDA/markdown-editor/static/css/main.bf0648b4.chunk.css.map",
+    "static/js/2.ff48a9a3.chunk.js.LICENSE.txt": "/DIGIT-RWANDA/markdown-editor/static/js/2.ff48a9a3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7e32ca7b.js",
+    "static/js/runtime-main.bf48368c.js",
     "static/js/2.ff48a9a3.chunk.js",
     "static/css/main.bf0648b4.chunk.css",
-    "static/js/main.bbb99c5c.chunk.js"
+    "static/js/main.878fad89.chunk.js"
   ]
 }
